@@ -1,0 +1,36 @@
+Assignment (30/03/2026)
+Assignment Name : Prompt Engineer
+Description : Write prompts for resume, business idea, study plan and compare weak vs strong prompts. ONE BY ONE
+
+1. Resume Prompt
+Weak Prompt:
+Write a resume
+
+Strong Prompt:
+Create a professional resume for an MCA student named Akshitha with skills in Python, Machine Learning, HTML, CSS, and JavaScript. Include education, projects, and internships.
+
+Comparison:
+Weak prompt → vague, no details
+Strong prompt → specific, detailed, better output
+
+2. Business Idea Prompt
+Weak Prompt:
+Give a business idea
+
+Strong Prompt:
+Suggest a unique business idea for students that uses AI and helps in education. Include problem, solution, and target users.
+
+Comparison:
+Weak → generic ideas
+Strong → focused and useful idea
+
+3. Study Plan Prompt
+Weak Prompt:
+Make a study plan
+
+Strong Prompt:
+Create a 7-day study plan for learning Machine Learning basics, including daily topics, practice tasks, and revision time.
+
+Comparison:
+Weak → unclear output
+Strong → structured and detailed plan

@@ -1,0 +1,33 @@
+Assignment (27/03/2026) 
+Assignment Name : Semantic Meaning 
+Description : Find 5 word pairs and explain semantic similarity.
+
+Word Pairs with Explanation
+1. Happy – Joyful
+Both words express positive emotions and happiness
+High semantic similarity
+
+2. Big – Large
+Both refer to size or magnitude
+ Nearly identical meaning
+
+3. Fast – Quick
+ Both indicate speed
+Used interchangeably in most contexts
+
+4. Smart – Intelligent
+Both describe mental ability or intelligence
+Very closely related
+
+5. Car – Vehicle
+“Car” is a type of “Vehicle”
+Semantic relationship (category-based similarity)
+
+Explanation
+Semantic similarity refers to how closely related two words are in meaning. Words can be similar because they:
+Mean the same (synonyms)
+Belong to the same category
+Represent related concepts
+
+Conclusion
+Understanding semantic similarity helps in Natural Language Processing tasks such as text analysis, search engines, and chatbots, where meaning is more important than exact words.

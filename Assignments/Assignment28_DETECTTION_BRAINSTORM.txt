@@ -1,0 +1,56 @@
+Assignment (11/04/2026)
+
+Assignment Name : Detection Brainstorm
+Description : List 5 uses of face/object detection and design one solution 
+
+Five Uses of Face/Object Detection
+1. Face Recognition for Attendance
+Used in schools/colleges/offices
+Automatically marks attendance using face detection
+Saves time and avoids proxy attendance
+2. Security & Surveillance Systems
+Detects suspicious persons or objects
+Used in airports, banks, malls
+Helps in crime prevention
+3. Self-Driving Cars 
+Detects pedestrians, vehicles, traffic signs
+Helps avoid accidents
+Ensures safe navigation
+4. Medical Field 
+Detects tumors, abnormalities in scans
+Helps doctors in diagnosis
+Improves accuracy
+5. Social Media Filters 
+Face detection used in apps like Snapchat/Instagram
+Applies filters, AR effects
+Enhances user experience
+
+
+Designed Solution
+Title:Smart Classroom Attendance System using Face Detection
+
+Problem Statement
+Manual attendance is time-consuming and allows proxy entries.
+
+Proposed Solution
+Develop a system that:
+Detects faces using a camera
+Recognizes students
+Automatically marks attendance
+
+Working Process
+Capture live video using webcam
+Detect faces using OpenCV
+Match with stored student images
+Mark attendance in database/file
+
+Tools & Technologies
+Python
+OpenCV
+Face Recognition library
+SQLite / CSV file
+
+Advantages
+Fast and accurate
+No manual work
+Prevents fake attendance

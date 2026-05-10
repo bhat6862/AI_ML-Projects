@@ -1,0 +1,32 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Load dataset
+data = pd.read_csv("Student Attitude and Behavior.csv")
+
+# 1️⃣ Bar Chart – Department Distribution
+dept_counts = data['Department'].value_counts()
+
+plt.figure()
+dept_counts.plot(kind='bar')
+plt.title("Number of Students by Department")
+plt.xlabel("Department")
+plt.ylabel("Number of Students")
+plt.show()
+
+# 2️⃣ Pie Chart – Gender Distribution
+gender_counts = data['Gender'].value_counts()
+
+plt.figure()
+gender_counts.plot(kind='pie', autopct='%1.1f%%')
+plt.title("Gender Distribution")
+plt.ylabel("")
+plt.show()
+
+# 3️⃣ Histogram – College Marks Distribution
+plt.figure()
+plt.hist(data['college mark'], bins=10)
+plt.title("Distribution of College Marks")
+plt.xlabel("Marks")
+plt.ylabel("Number of Students")
+plt.show()

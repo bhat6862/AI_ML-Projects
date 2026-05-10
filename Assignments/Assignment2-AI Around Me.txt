@@ -1,0 +1,34 @@
+Assignment (09/02/2026)
+Assignment Name :AI Around Me
+Description : List 10 real-life AI applications you use daily and explain how ML might work behind each in 1–2 lines.
+
+
+1. Google Search
+Google uses machine learning algorithms to understand search queries and rank the most relevant web pages based on user behavior and search patterns.
+
+2. YouTube Recommendations
+YouTube uses ML models to analyze watch history, likes, and viewing patterns to recommend videos that match the user’s interests.
+
+3. Voice Assistants (Google Assistant / Siri)
+Voice assistants use speech recognition and natural language processing (NLP) models to understand spoken commands and respond appropriately.
+
+4. Email Spam Filtering
+Email services use machine learning to classify emails as spam or legitimate by analyzing patterns, keywords, and sender behavior.
+
+5. Netflix / OTT Recommendations
+Streaming platforms use ML algorithms to analyze viewing history and preferences to recommend movies and TV shows.
+
+6. Google Maps Navigation
+Google Maps uses ML to analyze traffic data, historical patterns, and real-time user locations to predict the fastest routes.
+
+7. Face Unlock on Smartphones
+Face recognition systems use deep learning models to analyze facial features and match them with stored facial data for authentication.
+
+8. Online Shopping Recommendations (Amazon / Flipkart)
+E-commerce platforms use ML algorithms to analyze browsing history and previous purchases to recommend products.
+
+9. Social Media Feed (Instagram / Facebook)
+Social media platforms use ML to rank posts based on user engagement, likes, comments, and interests.
+
+10. Autocorrect and Predictive Text
+Keyboard applications use machine learning to predict the next word and correct spelling mistakes based on typing patterns and language models.

@@ -1,0 +1,29 @@
+Assignment (12/03/2026)
+Assignment Name : Decision Tree on Paper
+Description : Draw a decision tree predicting whether you should play outside.
+
+
+A decision tree helps in making decisions based on conditions. Here we predict whether to play outside or not depending on weather conditions.
+
+                Weather
+               /       \
+            Sunny     Rainy
+             /           \
+      Humidity High     Windy?
+        /        \       /    \
+      No        Yes    Yes    No
+    (Don't      Play   Don't  Play
+      Play)             Play
+
+Explanation:-
+The root node is the weather condition (Sunny or Rainy).
+If the weather is Sunny, we check the humidity level:
+High humidity → Do not play outside
+Normal humidity → Play outside
+If the weather is Rainy, we check whether it is windy:
+Windy → Do not play outside
+Not windy → Play outside
+
+Conclusion:-
+
+The decision tree helps us make a simple decision by evaluating conditions step by step. It is widely used in machine learning for classification problems, where data is split into branches based on rules.

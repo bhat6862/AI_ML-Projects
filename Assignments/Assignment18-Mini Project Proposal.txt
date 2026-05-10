@@ -1,0 +1,45 @@
+Assignment (19/03/2026) Assignment Name : Mini Project Proposal Description : Submit a 1-page proposal with problem, dataset, algorithm, expected output.
+
+Project Title
+Smart Waste Classification System using Machine Learning
+
+problem Statement:
+Improper waste segregation leads to environmental pollution and inefficient recycling. Many people are unaware of how to classify waste correctly (biodegradable, recyclable, hazardous).
+This project aims to develop a machine learning system that classifies waste into different categories to promote proper waste management.
+
+Dataset
+The dataset will contain different types of waste such as:
+
+Plastic
+Paper
+Metal
+Organic waste
+
+Dataset can be obtained from:
+Public image datasets (Kaggle)
+Or manually collected sample data
+Algorithm / Methodology
+Image classification using Machine Learning / Deep Learning
+
+Algorithms:
+CNN (Convolutional Neural Network)
+OR simple classification (if using structured data)
+
+Steps:
+Data collection
+Data preprocessing
+Model training
+Prediction
+Expected Output
+Input: Image of waste
+Output:
+Type of waste (Plastic / Organic / Metal / etc.)
+Suggestion for disposal
+Tools & Technologies
+Python
+TensorFlow / Keras
+OpenCV
+NumPy, Pandas
+
+Conclusion
+This system helps in proper waste segregation and contributes to environmental sustainability using machine learning techniques.
